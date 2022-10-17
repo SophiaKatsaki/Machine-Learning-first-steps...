@@ -1,6 +1,6 @@
 # Machine-Learning-first-steps...
 
-**It contains 3 projects of the 'Machine Learning' course of Aristotle University of Thessaloniki.**
+**It contains the three projects of the 'Machine Learning' course of Aristotle University of Thessaloniki.**
 
 *Language : Python*
 *Libraries used : scikit-learn, XGBoost, NumPy, pandas, Matplotlib*
