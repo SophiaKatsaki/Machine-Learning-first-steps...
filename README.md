@@ -2,7 +2,7 @@
 
 **It contains the three projects of the 'Machine Learning' course of Aristotle University of Thessaloniki.**
 
-*Language : Python*
+*Language : Python*\
 *Libraries used : scikit-learn, XGBoost, NumPy, pandas, Matplotlib*
 
 The first project is about Linear Models:\
